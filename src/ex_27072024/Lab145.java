@@ -6,11 +6,11 @@ public class Lab145 {
             for (int i = 0; i < args.length; i++) {
                 System.out.println(args[i]);
             }
-       /* else
+        }
+       else
         {
                 System.out.println("No arguments given");
-            }*/
+            }
 
         }
     }
-}
