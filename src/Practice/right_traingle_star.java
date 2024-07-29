@@ -1,3 +1,5 @@
+package Practice;
+
 public class right_traingle_star
 {
     public static void main(String[] args)
